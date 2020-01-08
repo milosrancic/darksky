@@ -1,7 +1,5 @@
 # [darksky](http://cloudmu.github.io/darksky/)
 
-[![23130604-1767296236622854-4672457983951636894-n.jpg](https://i.postimg.cc/xjZgdZZd/23130604-1767296236622854-4672457983951636894-n.jpg)](https://postimg.cc/0rp7WVPg)
-
 A weather app to show weather forecasting using [Dark Sky](https://darksky.net/dev/), 
 [reactjs](https://facebook.github.io/react/), and [plotly.js](https://plot.ly/javascript/).
 
